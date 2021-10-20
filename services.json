@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "Eye Care",
+        "title": "Eye_Care",
         "description": "At Primary Eyecare Associates, we are committed to providing the best care in our area, offering a professional a welcoming environment. Our comprehensive eye care services include complete and thorough eye exams, checking for visual acuity and diseases such as cataracts and glaucoma. We also offer a great optical department where you can find the perfect pair of glasses or contact lenses for you Our doctors at Primary Eyecare Associates are trained to find everything there is to find during an eye examination. The reason we put such a big emphasis on attending eye exams is that routine eye examinations find many diseases in their early stages, when a patient often suffers no symptoms. Diseases such as glaucoma have much better outlooks when found early on. We recommend a bi-yearly examination for those in good health, and a yearly examination for those who have a history of eye disease, or if they have a pre-existing condition. If anything out of the ordinary is found, your doctor will schedule another exam that is more focused. If you are in need of an eye examination in Warner Robins or Macon, call Primary Eyecare Associates today for your appointment!",
         "img": "https://raw.githubusercontent.com/sabuj-mojumdar/img/main/services/eye-care.png",
         "titleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/img/main/services2/primary-care.jpg"
@@ -29,7 +29,7 @@
     },
     {
         "id": 5,
-        "title": "Dental Clinic",
+        "title": "Dental_Clinic",
         "description": "At Dental Clinic of Marshfield, we make caring for your smile convenient and have a wide array of treatments to meet all of your dental needs in any one of our three locations. In the following links, you can learn more about our dental services in Marshfield, Stratford and Neillsville, Wisconsin:",
         "img": "https://raw.githubusercontent.com/sabuj-mojumdar/img/main/services/dentalClinic.png",
         "titleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/img/main/services2/dental.jpg"
