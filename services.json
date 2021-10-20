@@ -3,30 +3,36 @@
         "id": 1,
         "title": "Eye Care",
         "description": "At Primary Eyecare Associates, we are committed to providing the best care in our area, offering a professional a welcoming environment. Our comprehensive eye care services include complete and thorough eye exams, checking for visual acuity and diseases such as cataracts and glaucoma. We also offer a great optical department where you can find the perfect pair of glasses or contact lenses for you Our doctors at Primary Eyecare Associates are trained to find everything there is to find during an eye examination. The reason we put such a big emphasis on attending eye exams is that routine eye examinations find many diseases in their early stages, when a patient often suffers no symptoms. Diseases such as glaucoma have much better outlooks when found early on. We recommend a bi-yearly examination for those in good health, and a yearly examination for those who have a history of eye disease, or if they have a pre-existing condition. If anything out of the ordinary is found, your doctor will schedule another exam that is more focused. If you are in need of an eye examination in Warner Robins or Macon, call Primary Eyecare Associates today for your appointment!",
-        "img": "https://raw.githubusercontent.com/sabuj-mojumdar/img/main/services/eye-care.png"
+        "img": "https://raw.githubusercontent.com/sabuj-mojumdar/img/main/services/eye-care.png",
+        "titleImg": "https://raw.githubusercontent.com/sabuj-mojumdar/img/main/services2/primary-care.jpg"
     },
     {
         "id": 2,
         "title": "Medicine",
         "description": "Department of Internal Medicine focuses on the diagnosis, treatment, and prevention of non-surgical conditions in adults. The department provides a wide range of high quality cross-specialty health care services, including physical examinations, preventive screenings and immunizations, urgent care for medical conditions, and referrals to surgical specialists when appropriate. Our Internal Medicine Consultants have had broad-based training in General Medicine and in one or more subspecialties. The presence of clinicians with different subspecialty training in the department allows an integrated approach to patient care and helps to limit the volume of referral to other subspecialty departments.",
-        "img": "https://raw.githubusercontent.com/sabuj-mojumdar/img/main/services/medicine.png"
+        "img": "https://raw.githubusercontent.com/sabuj-mojumdar/img/main/services/medicine.png",
+        "titleImg": "https://raw.githubusercontent.com/sabuj-mojumdar/img/main/services2/medicine.jpg"
     },
     {
         "id": 3,
         "title": "Cardiology",
         "description": "Keeping your heart strong and healthy is crucial to your overall well-being. Our cardiology specialists are here to help you manage and treat your heart health no matter what you might need. Whether you need minor treatment or a complex procedure, our goal is always to have you back to leading a full, normal life as quickly as possible. Our cardiology team will work hard to evaluate your condition and recommend treatment options that will best meet your unique needs.",
-        "img": "https://raw.githubusercontent.com/sabuj-mojumdar/img/main/services/cardiology.png"
+        "img": "https://raw.githubusercontent.com/sabuj-mojumdar/img/main/services/cardiology.png",
+        "titleImg": "https://raw.githubusercontent.com/sabuj-mojumdar/img/main/services2/cardiology.jpg"
     },
     {
         "id": 4,
         "title": "Orthopedic",
         "description": "At the Mount Sinai Health System, our expert orthopedic doctors and surgeons can address skeletal and muscular symptoms such as pain, loss of mobility, and imbalance using advanced diagnostic and therapeutic technologies and medical treatments. We provide comprehensive orthopedic services at a variety of convenient locations throughout the metropolitan New York City area. Our team of orthopedists treats the body’s musculoskeletal system that, when functioning properly, supports, stabilizes, and makes it possible for you to move with ease. We are dedicated to helping you overcome debilitating and painful bone and muscle conditions and return to your everyday, normal activities as soon as possible.",
-        "img": "https://raw.githubusercontent.com/sabuj-mojumdar/img/main/services/orthopedic.png"
+        "img": "https://raw.githubusercontent.com/sabuj-mojumdar/img/main/services/orthopedic.png",
+        "titleImg": "https://raw.githubusercontent.com/sabuj-mojumdar/img/main/services2/orthopedic.jpg"
     },
     {
         "id": 5,
         "title": "Dental Clinic",
         "description": "At Dental Clinic of Marshfield, we make caring for your smile convenient and have a wide array of treatments to meet all of your dental needs in any one of our three locations. In the following links, you can learn more about our dental services in Marshfield, Stratford and Neillsville, Wisconsin:",
-        "img": "https://raw.githubusercontent.com/sabuj-mojumdar/img/main/services/dentalClinic.png"
+        "img": "https://raw.githubusercontent.com/sabuj-mojumdar/img/main/services/dentalClinic.png",
+        "titleImg": "https://raw.githubusercontent.com/sabuj-mojumdar/img/main/services2/dental.jpg"
+
     }
 ]
